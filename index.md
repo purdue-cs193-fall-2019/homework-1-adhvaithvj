@@ -1,6 +1,6 @@
 # Adhvaith Vijay's First CS193 Homework
 
-## Favorite Things about CS192
+**Favorite Things about CS193**
 - TAs are nice
 - Plenty of friendly people
 - No tests other than IClicker Quizzes
